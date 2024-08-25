@@ -1,4 +1,5 @@
 MERN-ChatBot
+
 This is my first project, a basic and simple chatbot built using the MERN stack (MongoDB, Express.js, React, Node.js). I created it with the help of tutorials from @Indian Coder.
 
 This is my first step into full-stack development project. The chatbot handles basic functions and user interaction, showcasing what i have learned so far about building web application. The basic setup for this project are
